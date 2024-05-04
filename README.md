@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="github/x.png" alt="Logo" width="80" height="80">
+    <img src="github/X.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best Auto Clicker - Autoclix</h3>
@@ -41,4 +41,4 @@
 4. Enter ``Y`` if you want to install modules
 
 
-<img src="github/e.png" alt="Logo" width="80" height="80">
+<img src="github/e.png" alt="Logo" width="552" height="204">
