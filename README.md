@@ -41,4 +41,4 @@
 4. Enter ``Y`` if you want to install modules
 
 
-<img src="github/x.png" alt="Logo" width="80" height="80">
+<img src="github/e.png" alt="Logo" width="80" height="80">
